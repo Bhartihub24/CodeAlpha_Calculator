@@ -1,6 +1,6 @@
-# 🧮 CodeAlpha Calculator Project
+# 🧮 Calculator Project
 
-This project is a **simple yet fully functional calculator** built using **HTML, CSS, and JavaScript**, created as part of the **CodeAlpha Internship**.
+This project is a **simple yet fully functional calculator** built using **HTML, CSS, and JavaScript**.
 
 ---
 
